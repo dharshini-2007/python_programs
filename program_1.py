@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 num1 = float(input("Enter the first number for addition:"))
 num2 = float(input("enter the second number for addition:"))
 
